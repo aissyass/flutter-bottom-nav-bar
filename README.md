@@ -6,4 +6,4 @@ Hi! This is a trick I came up with to make a **beautiful** looking navigation ba
 ## Font Awesome
 > Don't forget to include font_awesome_flutter in pubspec.yaml
 
-![Beautiful Nav Bar Image](./screenshots/fontawesome.png)
+<img src="./screenshots/fontawesome.png" data-canonical-src="./screenshots/fontawesome.png" width="350"/>
